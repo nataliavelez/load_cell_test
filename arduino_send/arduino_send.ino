@@ -40,7 +40,7 @@
 
 HX711 scale;
 
-float calibration_factor = 1; //-7050 worked for my 440lb max scale setup
+float calibration_factor = 2000; //-7050 worked for my 440lb max scale setup
 float offset = 0;
 
 void setup() {
