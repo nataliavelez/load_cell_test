@@ -1,0 +1,3 @@
+hide*
+*.h
+.DS_store
